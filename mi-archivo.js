@@ -1,1 +1,1 @@
-alert("Hola GitHub... Lo ehmos Editado");
+alert("Hola GitHub... Lo Hemos Editado");
