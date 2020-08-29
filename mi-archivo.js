@@ -1,3 +1,4 @@
 var nombre = 'Programador de JavaScript';
-alert('Hola GitHub... Lo Hemos Editado ' + nombre);
+var descripcion = ' Este es un cambio para tener encuenta dentro del repositorio en la Web ..';
+alert('Hola GitHub... Lo Hemos Editado ' + nombre + descripcion);
 
